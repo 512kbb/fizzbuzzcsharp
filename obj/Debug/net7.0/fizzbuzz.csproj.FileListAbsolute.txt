@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\bin\Debug\net7.0\fizzbuzz.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\refint\fizzbuzz.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\fizzbuzz\obj\Debug\net7.0\ref\fizzbuzz.dll
